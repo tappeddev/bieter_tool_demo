@@ -31,6 +31,12 @@
 
   <title>Bieter Tool</title>
   <link rel="manifest" href="manifest.json">
+  <!-- Remove overscroll to avoid going back/forward while browsing the table -->
+  <style>
+    html, body {
+      overscroll-behavior-x: none;
+    }
+  </style>
 </head>
 <body>
   <!-- Microsoft auth -->
