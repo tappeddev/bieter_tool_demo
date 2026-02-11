@@ -62810,7 +62810,7 @@ gafn(){return"Importing a new GAEB file will discard the current file. All unsav
 gahE(){return"Position details"},
 gakv(){return"Referenced positions"},
 gako(){return"Base sum"},
-gakt(){return"Share (%)"},
+gakt(){return"Markup (%)"},
 gakn(){return"Markup amount"},
 gaks(){return"No referenced positions configured"},
 akw(a){return"Unresolved references: "+a},
@@ -63070,7 +63070,7 @@ case 3:m=b
 l=p.a
 if(l.e==null){s=1
 break}o=t.A
-n=A.ao(l,B.n,o).aal("2026-02-09",m.c)
+n=A.ao(l,B.n,o).aal("2026-02-11",m.c)
 s=4
 return A.q(A.J_(A.c([new A.jx(A.ao(l,B.n,o).gWC(),null,!1,!0)],t.LO),!0,n,l,"BIETER TOOL"),$async$$0)
 case 4:case 1:return A.x(q,r)}})
