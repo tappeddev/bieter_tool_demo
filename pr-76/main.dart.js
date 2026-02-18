@@ -62882,7 +62882,7 @@ if(l.e==null){s=1
 break}o=t.A
 n=A.ao(l,B.n,o).aa5("2026-02-18",m.c)
 s=4
-return A.q(A.Zy(A.c([new A.lc(A.ao(l,B.n,o).gWt(),null,!1)],t.LO),!0,n,l,"BIETER TOOL"),$async$$0)
+return A.q(A.Zy(A.c([new A.lc(A.ao(l,B.n,o).gWt(),null,!1)],t.LO),!0,n,l,"ORCA LV Bid"),$async$$0)
 case 4:case 1:return A.x(q,r)}})
 return A.y($async$$0,r)},
 $S:9}
