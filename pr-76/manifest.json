@@ -1,11 +1,11 @@
 {
-    "name": "Bieter Tool",
-    "short_name": "Bieter Tool",
+    "name": "ORCA LV Bid",
+    "short_name": "ORCA LV Bid",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
